@@ -1,0 +1,1 @@
+Reproduction of Resharper bug described in https://github.com/xbehave/xbehave.net/issues/373
